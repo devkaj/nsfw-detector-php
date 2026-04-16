@@ -1,3 +1,6 @@
+![PHP](https://img.shields.io/badge/PHP-7.4+-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # 🚫 NSFW Detector PHP
 
 A lightweight, single-file PHP API for detecting NSFW (Not Safe For Work) content from image URLs.
